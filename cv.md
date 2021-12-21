@@ -22,6 +22,11 @@ function solution(str){
 ## Experience:
 
 ## Education:
+* Courses Udemy:
+  + [WEB-разработчик](https://www.udemy.com/course/webdeveloper/ "WEB-разработчик")
+  + [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/ "Полный курс по JavaScript + React - с нуля до результата")
+* Courses Webcademy:
+  + [JavaScript разработчик](https://webcademy.ru/jscourse/ "JavaScript разработчик")
 
 ## English:
 A2
